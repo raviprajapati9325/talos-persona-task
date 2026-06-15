@@ -2,7 +2,6 @@
 # Persona   : Catherine Ibarra (Senior Research Scientist, marine biology,
 #             University of the Adriatic Coast, Manus quarter, Split, Croatia)
 # Window    : Mon Nov 9, 2026 08:00 CET -> Thu Nov 12, 2026 16:30 CET
-# Timezone  : Europe/Zagreb (CET)
 # ---------------------------------------------------------------------------
 
 --- TURN T0 (Day 1, Mon Nov 9, 08:00) ---
