@@ -1,21 +1,8 @@
 # ---------------------------------------------------------------------------
 # Persona   : Catherine Ibarra (Senior Research Scientist, marine biology,
 #             University of the Adriatic Coast, Manus quarter, Split, Croatia)
-# Variant   : enterprise
 # Window    : Mon Nov 9, 2026 08:00 CET -> Thu Nov 12, 2026 16:30 CET
 # Timezone  : Europe/Zagreb (CET)
-# Scenario  : November report convergence. POMN Year 2 interim report due to the
-#             Croatian Science Foundation Mon Nov 16, MedSeagrass Year 1 annual due
-#             Nov 28, quarterly budget aftermath, the Sat Nov 14 Zagreb family visit,
-#             the postdoc hire, and Rosa's mid-month care, all in one shore week.
-# Note      : Plain, human, conversational wake-up messages in Catherine's voice,
-#             concise but complex. Difficulty lives in conflict and dependency, not
-#             leaked numbers: leading-but-wrong assumptions to override, confident-
-#             wrong contacts, effective-date arbitration, missing-record honesty,
-#             don't-act-on-hearsay, multi-source joins, conditional cascades to
-#             earlier turns, and pretext detection. No values, catches, or reasoning
-#             are spelled out. Each "--- TURN ... ---" header is a comment; the lines
-#             BELOW are delivered to the agent.
 # ---------------------------------------------------------------------------
 
 --- TURN T0 (Day 1, Mon Nov 9, 08:00) ---
